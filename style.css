@@ -17,6 +17,9 @@
   height: 70px;
   margin-bottom: 10px;
   border-radius: 0px 0px 20px 20px;
+  display: flex; 
+  align-items: center;
+  justify-content: center
 }
 .ini h2{
   color: greenyellow;
